@@ -1,0 +1,22 @@
+{
+  "name": "dsquared2-clone",
+  "version": "1.0.0",
+  "description": "DSQUARED2 inspired e-commerce website with admin panel",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["ecommerce", "fashion", "dsquared2", "admin-panel"],
+  "author": "Developer",
+  "license": "MIT"
+}

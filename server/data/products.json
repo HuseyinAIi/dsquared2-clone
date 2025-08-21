@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "name": "Rebel Jean Jacket",
+    "description": "Classic denim jacket with rebellious attitude and premium craftsmanship",
+    "price": 1240,
+    "category": "READY TO WEAR",
+    "imageUrl": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400&h=500&fit=crop",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Cimosa Authentic Japanese Denim Wash Dean Jeans",
+    "description": "Premium Japanese denim with authentic wash and superior fit",
+    "price": 1130,
+    "category": "READY TO WEAR",
+    "imageUrl": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400&h=500&fit=crop",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Loose Crest Vest",
+    "description": "Relaxed fit vest with signature crest detailing",
+    "price": 895,
+    "category": "READY TO WEAR",
+    "imageUrl": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=400&h=500&fit=crop",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Light Diagonale Wash London Bro Jeans",
+    "description": "Contemporary jeans with diagonal wash pattern and London-inspired cut",
+    "price": 655,
+    "category": "NEW COLLECTION",
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=400&h=500&fit=crop",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Wool Osaka Blazer",
+    "description": "Sophisticated wool blazer with Osaka-inspired tailoring",
+    "price": 1915,
+    "category": "NEW COLLECTION",
+    "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=500&fit=crop",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Dark Clean Wash Loose Jeans",
+    "description": "Relaxed fit jeans with clean dark wash finish",
+    "price": 655,
+    "category": "NEW COLLECTION",
+    "imageUrl": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=400&h=500&fit=crop",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "name": "Rider Sneakers",
+    "description": "Premium leather sneakers with signature rider styling",
+    "price": 520,
+    "category": "SHOES",
+    "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400&h=500&fit=crop",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "name": "Boxer Sneakers",
+    "description": "Athletic-inspired sneakers with boxer-style design elements",
+    "price": 520,
+    "category": "SHOES",
+    "imageUrl": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=400&h=500&fit=crop",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "9",
+    "name": "Loose Fit Hand-Drawn T-Shirt",
+    "description": "Artistic t-shirt with hand-drawn graphics and loose comfortable fit",
+    "price": 600,
+    "category": "NEW COLLECTION",
+    "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=500&fit=crop",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "10",
+    "name": "Japanese Baracuta Blazer",
+    "description": "Luxury blazer with Japanese-inspired design and premium materials",
+    "price": 2000,
+    "category": "NEW COLLECTION",
+    "imageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=400&h=500&fit=crop",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  }
+]
